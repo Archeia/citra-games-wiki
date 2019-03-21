@@ -1,0 +1,9 @@
+title = "Etrian Odyssey Nexus"
+description = "Etrian Odyssey Nexus is a dungeon crawler role-playing video game published and developed by Atlus for the Nintendo 3DS. . A sequel to 2016's Etrian Odyssey V, it has been said that Nexus will be the last Etrian Odyssey game on the Nintendo 3DS."
+needs_system_files = true
+needs_shared_font = false
+
+[[releases]]
+title = "00040000001D4E00"
+region = "usa"
+release_date = "2019-02-05"
